@@ -1,4 +1,5 @@
 # FOP-2223-TeX
+![GitHub repo size](https://img.shields.io/github/repo-size/FOP-2223/FOP-2223-TeX)  
 The Exercise Sheets of FOP-2223 build with LaTeX
 
 ## Git clone sanity
